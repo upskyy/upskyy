@@ -22,7 +22,7 @@ My major is in Electronic and Communication Engineering and minor in Data Scienc
 Also, I am specially interested in automatic speech recognition and natural language processing. 
 
  
-You can check more details about me [Here!](https://github.com/hasangchun/hasangchun/blob/main/CV.pdf)
+You can check more details about me [Here!](https://github.com/upskyy/upskyy/blob/main/CV.pdf)
 
 If you are interested in me, please don’t hesitate to contact me at patrick.ai@tunib.ai
 
