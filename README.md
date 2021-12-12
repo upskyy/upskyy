@@ -36,7 +36,7 @@ Thank you:yellow_heart:
 
 <p align="center">
   <a href="https://sites.google.com/view/upskyy" target="_blank"><img src="./images/web.png" width=35 height=35 alt="web"></a>
-  <a href="https://github.com/hasangchun" target="_blank"><img src="./images/GitHub.png" width=35 height=35 alt="GitHub Blog"></a>
+  <a href="https://github.com/upskyy" target="_blank"><img src="./images/GitHub.png" width=35 height=35 alt="GitHub Blog"></a>
   <a href="https://www.linkedin.com/in/sangchunha" target="_blank"><img src="./images/LinkedIn.png" width=35 height=35 alt="LinkedIn"></a>
   <a href="mailto:seomk9896@gmail.com" target="_blank"><img src="./images/Gmail.png" width=35 height=35 alt="Mail"></a>
   <a href="https://www.facebook.com/profile.php?id=100005129311669" target="_blank"><img src="./images/facebook.png" width=35 height=35 alt="facebook"></a>
