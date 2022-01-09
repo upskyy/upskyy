@@ -15,16 +15,14 @@
 # Welcome, my friends :smile:      
   
 
-My name is **Sangchun Ha**, and I am currently working as an intern at [TUNiB](http://tunib.ai/).  
-
-I am an upcoming graduate at the Kwangwoon University.  
+My name is **Sangchun Ha**, and I am an upcoming graduate at the Kwangwoon University.  
 My major is in Electronic and Communication Engineering and minor in Data Science.   
 Also, I am specially interested in automatic speech recognition and natural language processing. 
 
  
 You can check more details about me [Here!](https://github.com/upskyy/upskyy/blob/main/CV.pdf)
 
-If you are interested in me, please don’t hesitate to contact me at patrick.ai@tunib.ai
+If you are interested in me, please don’t hesitate to contact me at seomk9896@gmail.com
 
 Thank you:yellow_heart:  
   
