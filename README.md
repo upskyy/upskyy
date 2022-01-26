@@ -7,12 +7,12 @@
 -->
       
 <!-- ### <div align="center">**Sangchun Ha**</div> -->
-<!--#### <div align="center">To be Machine Learning Engineer</div> -->
+<!--#### <div align="center">To be Machine Learning Engineer</div> --> 
  
          
             
    
-# Welcome, my friends :smile:      
+# Welcome, my friends :smile:       
   
 
 My name is **Sangchun Ha**, and I am an upcoming graduate at the Kwangwoon University.  
