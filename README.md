@@ -13,9 +13,11 @@
              
     
 # Welcome, my friends :smile:       
-  
 
-My name is **Sangchun Ha**, and I am an upcoming graduate at the Kwangwoon University.  
+
+My name is **Sangchun Ha**, and I am currently working at [ReturnZero](https://www.rtzr.ai/).
+
+I am an upcoming graduate at the Kwangwoon University.  
 My major is in Electronic and Communication Engineering and minor in Data Science.   
 Also, I am specially interested in automatic speech recognition and natural language processing. 
 
