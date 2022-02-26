@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=FFD400&height=200&section=header&text=Sangchun%20Ha&fontColor=000000&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=36BCF7&height=200&section=header&text=Sangchun%20Ha&fontColor=000000&fontSize=60" />
     
 <!--
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100005129311669) 
@@ -14,13 +14,8 @@
      
 # Welcome, my friends :smile:       
 
-
-My name is **Sangchun Ha**, and I am currently working at [ReturnZero](https://www.rtzr.ai/).
-
-I am an upcoming graduate at the Kwangwoon University.  
-My major is in Electronic and Communication Engineering and minor in Data Science.   
-Also, I am specially interested in automatic speech recognition and natural language processing. 
-
+My name is **Sangchun Ha**, and I am currently working at [ReturnZero](https://www.rtzr.ai/).  
+I'm studying speech recognition technology.  
  
 You can check more details about me [Here!](https://github.com/upskyy/upskyy/blob/main/CV.pdf)
 
