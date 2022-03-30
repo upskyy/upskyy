@@ -32,7 +32,7 @@ If you are interested in me, please don’t hesitate to contact me at seomk9896@
 [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangchunha/)](https://www.linkedin.com/in/sangchunha/)
 [![Facebook](https://img.shields.io/badge/facebook-black?logo=facebook&logoColor=white&link=https://www.facebook.com/people/%ED%95%98%EC%83%81%EC%B2%9C/100005129311669/)](https://www.facebook.com/profile.php?id=100005129311669)
 [![Instagram](https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=white&link=https://www.instagram.com/hasc_97/)](https://www.instagram.com/hasc_97/)
-[![Twitter](https://img.shields.io/badge/twitter-black?logo=twitter&logoColor=white&link=https://twitter.com/upskyy_)](https://twitter.com/upskyy_)
+[![Twitter](https://img.shields.io/badge/twitter-black?logo=twitter&logoColor=white&link=https://twitter.com/SangchunHa)](https://twitter.com/SangchunHa)
 
 </div>
 
