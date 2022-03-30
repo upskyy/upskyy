@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=36BCF7&height=200&section=header&text=Sangchun%20Ha&fontColor=000000&fontSize=60" />
-    
+<!--
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=34619C&height=200&section=header&text=Sangchun%20Ha&fontColor=000000&fontSize=60" />
+-->
 <!--
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100005129311669) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seomk9896@gmail.com)](mailto:seomk9896@gmail.com)
@@ -17,18 +18,24 @@
 My name is **Sangchun Ha**, and I am currently working at [ReturnZero](https://www.rtzr.ai/).  
 I'm studying speech recognition technology.  
  
-You can check more details about me [Here!](https://github.com/upskyy/upskyy/blob/main/CV.pdf)
-
+You can check more details about me [Here!](https://github.com/upskyy/upskyy/blob/main/CV.pdf)    
 If you are interested in me, please don’t hesitate to contact me at seomk9896@gmail.com
 
-Thank you:yellow_heart:  
+
   
 
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasangchun)](https://hits.seeyoufarm.com)
+    
+[![WMI](https://img.shields.io/badge/whoami-black?logo=Webflow&logoColor=white)](https://github.com/upskyy/upskyy/blob/main/CV.pdf)
+[![Twitter](https://img.shields.io/badge/twitter-black?logo=twitter&logoColor=white&link=https://twitter.com/upskyy_)](https://twitter.com/upskyy_)
+[![Facebook](https://img.shields.io/badge/facebook-black?logo=facebook&logoColor=white&link=https://www.facebook.com/people/%ED%95%98%EC%83%81%EC%B2%9C/100005129311669/)](https://www.facebook.com/profile.php?id=100005129311669)
+[![Instagram](https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=white&link=https://www.instagram.com/hasc_97/)](https://www.instagram.com/hasc_97/)
+[![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangchunha/)](https://www.linkedin.com/in/sangchunha/)
 </div>
 
+<!--
 <p align="center">
   <a href="https://sites.google.com/view/upskyy" target="_blank"><img src="./images/web.png" width=35 height=35 alt="web"></a>
   <a href="https://github.com/upskyy" target="_blank"><img src="./images/GitHub.png" width=35 height=35 alt="GitHub Blog"></a>
@@ -38,7 +45,7 @@ Thank you:yellow_heart:
   <a href="https://www.instagram.com/hasc_97/" target="_blank"><img src="./images/Instagram.png" width=35 height=35 alt="Instagram"></a>
 <!--   <a href="https://scholar.google.com/citations?user=i0tQk6cAAAAJ&hl=ko&oi=sra" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/google_scholar_icon_130918.png" width=35 height=35 alt="Google Scholar"></a> -->
 </p>
-
+<!--!-->
 <!-- ![Header image](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)     -->
 
 <div align="center">
