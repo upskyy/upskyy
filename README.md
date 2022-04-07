@@ -21,7 +21,7 @@ I'm studying speech recognition technology.
 You can check more details about me [Here!](https://github.com/upskyy/upskyy/blob/main/CV.pdf)    
 If you are interested in me, please don’t hesitate to contact me at seomk9896@gmail.com
 
-
+ 
   
 
 <div align="center">
