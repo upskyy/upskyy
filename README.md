@@ -31,7 +31,6 @@ If you are interested in me, please don’t hesitate to contact me at seomk9896@
 [![WMI](https://img.shields.io/badge/whoami-black?logo=Webflow&logoColor=white)](https://github.com/upskyy/upskyy/blob/main/CV.pdf)
 [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangchunha/)](https://www.linkedin.com/in/sangchunha/)
 [![Facebook](https://img.shields.io/badge/facebook-black?logo=facebook&logoColor=white&link=https://www.facebook.com/people/%ED%95%98%EC%83%81%EC%B2%9C/100005129311669/)](https://www.facebook.com/profile.php?id=100005129311669)
-[![Instagram](https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=white&link=https://www.instagram.com/hasc_97/)](https://www.instagram.com/hasc_97/)
 [![Twitter](https://img.shields.io/badge/twitter-black?logo=twitter&logoColor=white&link=https://twitter.com/SangchunHa)](https://twitter.com/SangchunHa)
 
 </div>
@@ -50,8 +49,12 @@ If you are interested in me, please don’t hesitate to contact me at seomk9896@
 <!-- ![Header image](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)     -->
 
 <div align="center">
-  
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasangchun&theme=default&show_icons=true)   -->
+
+<!-- !
+[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasangchun&theme=default&show_icons=true)  
+
+[![Instagram](https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=white&link=https://www.instagram.com/upskyyee/)](https://www.instagram.com/upskyyee/)
+ -->
 </div>  
 <!--!-->
  
