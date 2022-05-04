@@ -15,13 +15,19 @@
        
 # Welcome, my friends :smile:       
 
-My name is **Sangchun Ha**, and I am currently working at [ReturnZero](https://www.rtzr.ai/).  
+AI Research Engineer in [ReturnZero](https://www.rtzr.ai/)  
+
+### Research interests
+Neural speech recognition, Neural speech synthesis, MLOps, Deep-learning, Machine-learning
+
+<!--
+My name is **Sangchun Ha**, and I am currently working at 
 I'm studying speech recognition technology.  
  
 You can check more details about me [Here!](https://github.com/upskyy/upskyy/blob/main/CV.pdf)    
 If you are interested in me, please don’t hesitate to contact me at seomk9896@gmail.com
 
- 
+ -->
   
 
 <div align="center">
