@@ -26,7 +26,7 @@ I'm studying speech recognition technology.
  
 You can check more details about me [Here!](https://github.com/upskyy/upskyy/blob/main/CV.pdf)    
 If you are interested in me, please don’t hesitate to contact me at seomk9896@gmail.com
-
+[![Twitter](https://img.shields.io/badge/twitter-black?logo=twitter&logoColor=white&link=https://twitter.com/SangchunHa)](https://twitter.com/SangchunHa)
  -->
   
 
@@ -34,7 +34,7 @@ If you are interested in me, please don’t hesitate to contact me at seomk9896@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasangchun)](https://hits.seeyoufarm.com)
     
-[![WMI](https://img.shields.io/badge/whoami-black?logo=Webflow&logoColor=white)](https://github.com/upskyy/upskyy/blob/main/CV.pdf) [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangchunha/)](https://www.linkedin.com/in/sangchunha/) [![Facebook](https://img.shields.io/badge/facebook-black?logo=facebook&logoColor=white&link=https://www.facebook.com/people/%ED%95%98%EC%83%81%EC%B2%9C/100005129311669/)](https://www.facebook.com/profile.php?id=100005129311669) [![Twitter](https://img.shields.io/badge/twitter-black?logo=twitter&logoColor=white&link=https://twitter.com/SangchunHa)](https://twitter.com/SangchunHa)
+[![WMI](https://img.shields.io/badge/whoami-black?logo=Webflow&logoColor=white)](https://github.com/upskyy/upskyy/blob/main/CV.pdf) [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangchunha/)](https://www.linkedin.com/in/sangchunha/) [![Facebook](https://img.shields.io/badge/facebook-black?logo=facebook&logoColor=white&link=https://www.facebook.com/people/%ED%95%98%EC%83%81%EC%B2%9C/100005129311669/)](https://www.facebook.com/profile.php?id=100005129311669) 
 
 </div>
  
