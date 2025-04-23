@@ -15,10 +15,13 @@
        
 # Welcome, my friends :smile:       
 
-AI Research Engineer in [ReturnZero](https://www.rtzr.ai/)  
+Machine Learning Engineer in [MUSINSA](https://www.musinsa.com/)
 
 ### Research interests
-Neural speech recognition, Neural speech synthesis, MLOps, Deep-learning, Machine-learning
+- I am passionate about solving real-world problems with AI.
+- During my time at [ReturnZero](https://www.rtzr.ai/), I worked on various speech domain challenges, including speech recognition, speech synthesis, and speech foundation models.
+- At [MUSINSA](https://www.musinsa.com/), I am currently focused on leveraging LLMs, Natural Language Processing, and Computer Vision to address practical problems.
+- I believe that every experience is a connecting dot that will help me tackle bigger and more meaningful problems in the future.
 
 <!--
 My name is **Sangchun Ha**, and I am currently working at 
